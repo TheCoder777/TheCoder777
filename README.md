@@ -10,24 +10,29 @@ Good to see you around here! I'm a seventeen years old trainee working @ .
 - 🍕 I like Pizza (Who doesn't like pizza?)
 - 🎬 I'm a weeb
 - 💬 Ask me anything, I'll probably google the answer anyway and send you the results
-- <img height="32" width="32" src="https://icon-icons.com/icons2/1381/PNG/64/distributorlogoarchlinux_94330.png"> I use Arch btw
+- 👨‍💻 I use Arch btw
 
 
-Things I know:
+**Things I know:**
 
 <!-- Icons are from https://icon-icons.com/pack/Devicon/2415 -->
-<img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/python_original_logo_icon_146381.png" />
-<img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/java_original_logo_icon_146458.png" />
-<img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/html_plain_logo_icon_146475.png" />
-<img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/css_plain_logo_icon_146573.png" />
-<img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/git_original_logo_icon_146509.png" />
-<img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/docker_original_logo_icon_146556.png" />
+<p>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/python_original_logo_icon_146381.png"/>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/java_original_logo_icon_146458.png"/>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/html_plain_logo_icon_146475.png"/>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/css_plain_logo_icon_146573.png"/>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/git_original_logo_icon_146509.png"/>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/docker_original_logo_icon_146556.png"/>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/1381/PNG/64/distributorlogoarchlinux_94330.png">
+</p>
 
 
-Things I want to know:
+**Things I want to know:**
 
-<img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/javascript_original_logo_icon_146455.png" />
-<img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/c_original_logo_icon_146611.png" />
+<p>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/javascript_original_logo_icon_146455.png"/>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/c_original_logo_icon_146611.png"/>
+</p>
 
 
 
