@@ -15,7 +15,8 @@ Good to see you around here! I'm a seventeen years old trainee working @ .
 
 **Things I know:**
 
-<!-- Icons are from https://icon-icons.com/pack/Devicon/2415 -->
+<!-- Icons are from https://icon-icons.com/pack/Devicon/2415 and https://icon-icons.com/pack/vscode/2107 -->
+
 <p>
     <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/python_original_logo_icon_146381.png"/>
     <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/java_original_logo_icon_146458.png"/>
@@ -32,8 +33,14 @@ Good to see you around here! I'm a seventeen years old trainee working @ .
 <p>
     <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/javascript_original_logo_icon_146455.png"/>
     <img height="32" width="32" src="https://icon-icons.com/icons2/2415/PNG/64/c_original_logo_icon_146611.png"/>
+    <img height="32" width="32" src="https://icon-icons.com/icons2/2107/PNG/64/file_type_rust_icon_130185.png"/>
 </p>
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoder777&theme=tokyonight&layout=compact&bg_color=30,ffb355,b561ff&title_color=3262e4&text_color=fff)](https://github.com/TheCoder777)
+
+[Email me](mailto:thecoder777.github@gmail.com)
+
+[Dm me](https://instagram.com/thecoder777)
+
