@@ -1,6 +1,6 @@
 ### Hi, I'm Paul!
 
-Good to see you around here! I'm a seventeen years old trainee working @ .
+Good to see you around here! I'm a seventeen years old trainee working @[ConSol](https://github.com/ConSol).
 
 **Let me introduce myself:**
 
@@ -9,8 +9,9 @@ Good to see you around here! I'm a seventeen years old trainee working @ .
 - 👶 I do programming since I'm 12
 - 🍕 I like Pizza (Who doesn't like pizza?)
 - 🎬 I'm a weeb
-- 💬 Ask me anything, I'll probably google the answer anyway and send you the results
+- 💬 Ask me anything, I'll probably google the answer anyway
 - 👨‍💻 I use Arch btw
+
 
 
 **Things I know:**
@@ -37,10 +38,9 @@ Good to see you around here! I'm a seventeen years old trainee working @ .
 </p>
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCoder777&theme=tokyonight&layout=compact&bg_color=30,ffb355,b561ff&title_color=3262e4&text_color=fff)](https://github.com/TheCoder777)
 
 [Email me](mailto:thecoder777.github@gmail.com)
 
-[Dm me](https://instagram.com/thecoder777)
+[Dm me on Instagram](https://instagram.com/thecoder777)
 
